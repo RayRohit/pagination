@@ -1,10 +1,10 @@
 import React from 'react'
-import Followers from './Components/Followers';
+import Navb from './Components/Navb';
 
 function App() {
   return (
     <div className="App">
-      <Followers />
+      <Navb />
     </div>
   );
 }
